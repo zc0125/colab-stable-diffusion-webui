@@ -26,9 +26,10 @@
 
 ### 分享
 
-- 我的model模型：[google drive共享](https://drive.google.com/drive/folders/1_o2Z3-c_EYqfx-7skFJ_7hXPbhQc6zuD?usp=sharing)
-
-- 我的拓展：[google drive共享](https://drive.google.com/drive/folders/1Wrta7OGFNs-7Us7h4CIh-wCHYKu1bgqt?usp=sharing)
+- 我的model模型和拓展（需要保存文件到对应文件夹，软链不行）：
+[google drive models/Stable-diffusion](https://drive.google.com/drive/folders/1wSpxGyqD3rGY6LDKfFXYYwxtd1_amjuS?usp=sharing)
+[google drive models/Lora](https://drive.google.com/drive/folders/1BTmTJesXW9j2ZtLgUMlvqMup8QIAVaFJ?usp=sharing)
+[google drive extensions](https://drive.google.com/drive/folders/1Wrta7OGFNs-7Us7h4CIh-wCHYKu1bgqt?usp=sharing)
 
 - ControlNet模型：
 ```
