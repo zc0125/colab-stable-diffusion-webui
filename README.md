@@ -1,4 +1,4 @@
-# [使用google colab免费在线运行stable-diffusion-webui](https://github.com/zc0125/colab-stable-diffusion-webui)
+# [使用google colab在线运行stable-diffusion-webui](https://github.com/zc0125/colab-stable-diffusion-webui)
 
 `stable-diffusion-webui`项目地址：[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
