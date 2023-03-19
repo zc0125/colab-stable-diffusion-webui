@@ -15,6 +15,10 @@
 
 使用当前脚本[v1/run_stable_diffusion](https://github.com/zc0125/colab-stable-diffusion-webui/blob/main/v1/run_stable_diffusion.ipynb)在google colab中执行
 
+### 简体中文包
+简体中文插件脚本已经下载安装，当前使用的[简体中文包](https://github.com/VinsonLaro/stable-diffusion-webui-chinese)
+
+点击"Settings"，左侧点击"User interface"界面，在界面里最下方的"Localization (requires restart)"，选择"Chinese-All"或者"Chinese-English"
 
 ### 分享
 
@@ -23,9 +27,19 @@
 - 我的拓展：[google drive共享](https://drive.google.com/drive/folders/1Wrta7OGFNs-7Us7h4CIh-wCHYKu1bgqt?usp=sharing)
 
 - ControlNet模型：
-```text
+```
 https://huggingface.co/webui/ControlNet-modules-safetensors/tree/main
 https://huggingface.co/lllyasviel/ControlNet/tree/main/models
 ```
 
+- 相关网站
+```
+https://civitai.com/
+https://ai.dawnmark.cn/
+https://arthub.ai/
+https://www.krea.ai/
+https://tags.novelai.dev/
+```
+
 更多好用的模型或者拓展可以在Issues中共享出来，感谢分享。
+
