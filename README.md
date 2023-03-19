@@ -23,6 +23,8 @@
 ### 执行脚本
 
 使用当前脚本[v1/run_stable_diffusion](https://github.com/zc0125/colab-stable-diffusion-webui/blob/main/v1/run_stable_diffusion.ipynb)在google colab中执行
+![image](https://user-images.githubusercontent.com/51420323/226174230-5a401105-e878-4e30-97a0-f34b2aebabad.png)
+
 
 1. 执行当前脚本初始化运行目录
 ![image](https://user-images.githubusercontent.com/51420323/226173252-f34cc9bc-2c7f-44f0-a945-cec14639b4e6.png)
@@ -31,6 +33,7 @@
 ![image](https://user-images.githubusercontent.com/51420323/226173332-7a5f51d1-f798-4508-b0c1-c427b6a52f36.png)
 
 3. 如果之前云盘没有extensions和outputs路径，可以运行当前命令同步到云盘，如果云盘存在extensions和outputs文件夹则会自动同步
+
 ![image](https://user-images.githubusercontent.com/51420323/226173925-5e5e2af6-df5a-4a8c-8a71-9b6f10614027.png)
 
 
