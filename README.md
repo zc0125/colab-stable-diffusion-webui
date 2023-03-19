@@ -22,4 +22,10 @@
 
 - 常用的拓展：[google drive连接共享](https://drive.google.com/drive/folders/1Wrta7OGFNs-7Us7h4CIh-wCHYKu1bgqt?usp=sharing)
 
+- ControlNet模型：
+```text
+https://huggingface.co/webui/ControlNet-modules-safetensors/tree/main
+https://huggingface.co/lllyasviel/ControlNet/tree/main/models
+```
+
 更多好用的模型或者拓展可以在Issues中共享出来，感谢分享。
