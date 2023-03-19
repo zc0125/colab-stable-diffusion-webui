@@ -16,3 +16,10 @@
 使用当前脚本[v1/run_stable_diffusion](https://github.com/zc0125/colab-stable-diffusion-webui/blob/main/v1/run_stable_diffusion.ipynb)在google colab中执行
 
 
+### 分享
+
+- 常用的model模型：[google drive链接共享](https://drive.google.com/drive/folders/1_o2Z3-c_EYqfx-7skFJ_7hXPbhQc6zuD?usp=sharing)
+
+- 常用的拓展：[google drive连接共享](https://drive.google.com/drive/folders/1Wrta7OGFNs-7Us7h4CIh-wCHYKu1bgqt?usp=sharing)
+
+更多好用的模型或者拓展可以在Issues中共享出来，感谢分享。
