@@ -47,9 +47,10 @@
 ![image](https://user-images.githubusercontent.com/51420323/226173791-8b40b6cd-370d-4ec9-a756-a4ed7bcbac67.png)
 
 
-5. 云盘上传的新的model，需要在本次运行时，重新同步model至运行
+5. 云盘上传的新的model，需要在本次运行时，重新同步model至运行目录
 
-![image](https://user-images.githubusercontent.com/51420323/226173551-ab28bde8-1c6d-45cf-9e89-e7d120762bad.png)
+![image](https://user-images.githubusercontent.com/51420323/226174360-d54ecd00-e72b-47e2-9f90-3eae4f406f41.png)
+
 
 
 
