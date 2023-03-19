@@ -18,9 +18,9 @@
 
 ### 分享
 
-- 常用的model模型：[google drive链接共享](https://drive.google.com/drive/folders/1_o2Z3-c_EYqfx-7skFJ_7hXPbhQc6zuD?usp=sharing)
+- 我的model模型：[google drive共享](https://drive.google.com/drive/folders/1_o2Z3-c_EYqfx-7skFJ_7hXPbhQc6zuD?usp=sharing)
 
-- 常用的拓展：[google drive连接共享](https://drive.google.com/drive/folders/1Wrta7OGFNs-7Us7h4CIh-wCHYKu1bgqt?usp=sharing)
+- 我的拓展：[google drive共享](https://drive.google.com/drive/folders/1Wrta7OGFNs-7Us7h4CIh-wCHYKu1bgqt?usp=sharing)
 
 - ControlNet模型：
 ```text
