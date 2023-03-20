@@ -62,6 +62,8 @@
 
 ### 分享
 
+这里说个悄悄话，只使用别人的网盘软链，保存到自己的网盘，占用很少的内存空间，原理上可以使用很多的模型，跳出磁盘大小的限制。
+
 - 我的model模型和拓展（需要保存文件到对应文件夹，使用软链不占用云空间，但不能编辑）：
 
   - [google drive models/Stable-diffusion](https://drive.google.com/drive/folders/1wSpxGyqD3rGY6LDKfFXYYwxtd1_amjuS?usp=sharing)
