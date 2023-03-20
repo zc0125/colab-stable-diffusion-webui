@@ -62,7 +62,7 @@
 
 ### 分享
 
-- 我的model模型和拓展（需要保存文件到对应文件夹，使用软链不占用内存空间，但不能编辑）：
+- 我的model模型和拓展（需要保存文件到对应文件夹，使用软链不占用云空间，但不能编辑）：
 
   - [google drive models/Stable-diffusion](https://drive.google.com/drive/folders/1wSpxGyqD3rGY6LDKfFXYYwxtd1_amjuS?usp=sharing)
 
