@@ -7,7 +7,7 @@
 可将stable-diffusion-webui生成的图片保存到网盘的outputs目录下
 
 
-### 准备Google Drive（如有必要）
+### 准备Google Drive（如有需要）
 
 - Google Drive [地址](https://drive.google.com/drive/my-drive)
 
@@ -62,7 +62,7 @@
 
 ### 分享
 
-- 我的model模型和拓展（需要保存文件到对应文件夹，软链不行）：
+- 我的model模型和拓展（需要保存文件到对应文件夹，使用软链不占用内存空间，但不能编辑）：
 
   - [google drive models/Stable-diffusion](https://drive.google.com/drive/folders/1wSpxGyqD3rGY6LDKfFXYYwxtd1_amjuS?usp=sharing)
 
