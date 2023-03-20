@@ -61,9 +61,13 @@
 点击"Settings"，左侧点击"User interface"界面，在界面里最下方的"Localization (requires restart)"，选择"Chinese-All"或者"Chinese-English"
 
 ### 推荐提示词
+
 已经整合到启动脚本中
+
 自己的简体中文翻译版本：[点击跳转](https://github.com/zc0125/webui-tagcomplete/tree/branch/chinese-ex)
+
 也可使用原作者项目自行进行翻译
+
 ### 分享
 
 这里说个悄悄话，只使用别人的网盘软链，保存到自己的网盘，占用很少的内存空间，原理上可以使用很多的模型，跳出磁盘大小的限制。
