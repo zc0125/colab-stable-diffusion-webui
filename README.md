@@ -2,9 +2,9 @@
 
 `stable-diffusion-webui`项目地址：[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-使用google colab在线运行stable-diffusion-webui，可以通过上传models和extensions至网盘实现快速快速使用，需要注意的是网盘空间大小要足够
+使用google colab在线运行stable-diffusion-webui，可以通过上传models和extensions(尽量不要使用，在线下载很快)，至网盘实现快速快速使用，需要注意的是网盘空间大小要足够
 
-可将stable-diffusion-webui生成的图片保存到网盘的outputs目录下
+可将stable-diffusion-webui生成的图片保存到网盘的outputs目录下，用于同步生成图片
 
 
 ### 准备Google Drive（如有需要）
@@ -13,9 +13,9 @@
 
 - 在根目录中创建一个名为`stable-diffusion-webui`的文件夹（和stable-diffusion-webui的运行目录层次相同）。
 
-- 在`stable-diffusion-webui`文件夹中创建两个名为`models`和`extensions`的文件夹
+- 在`stable-diffusion-webui`文件夹中创建名为`models`、`extensions`和`outputs`的文件夹，用于保存自己的数据
 
-- model文件夹下创建需要使用的model分类文件夹
+- model文件夹下创建需要使用的model分类文件夹（如果没有要同步的内容，就不需要创建）
 
 ![image](https://user-images.githubusercontent.com/51420323/226169034-a3478906-b77a-436c-89d3-6def3b7cdfdc.png)
 
@@ -42,16 +42,16 @@
 ![image](https://user-images.githubusercontent.com/51420323/226173925-5e5e2af6-df5a-4a8c-8a71-9b6f10614027.png)
 
 
-4. 同步model，如果运行过程中有新下载的模型，可以同步到网盘
+4. 同步model，如果运行过程中有新下载的模型，可以同步到网盘（目前是同步到对应的`back_文件夹`，后续启动会自动使用）
 
-![image](https://user-images.githubusercontent.com/51420323/226173791-8b40b6cd-370d-4ec9-a756-a4ed7bcbac67.png)
+![image](https://user-images.githubusercontent.com/51420323/227580634-46a33936-09bf-4c1e-90a3-3e8887495b10.png)
 
 
-5. 云盘上传的新的model，需要在本次运行时，重新同步model至运行目录
+5. 云盘上新的model，需要在本次运行时，重新同步model至运行目录
 
 ![image](https://user-images.githubusercontent.com/51420323/226174360-d54ecd00-e72b-47e2-9f90-3eae4f406f41.png)
 
-
+6. 在线下载model资源同步保存到drive，更快，请使用脚本进行下载
 
 
 ### 简体中文包
@@ -62,7 +62,7 @@
 
 ### 推荐提示词
 
-已经整合到启动脚本中
+已经整合到启动脚本中，默认使用中文提示词
 
 自己的简体中文翻译版本：[点击跳转](https://github.com/zc0125/webui-tagcomplete/tree/branch/chinese-ex)
 
@@ -70,9 +70,9 @@
 
 ### 分享
 
-这里说个悄悄话，只使用别人的网盘软链，保存到自己的网盘，占用很少的内存空间，原理上可以使用很多的模型，跳出磁盘大小的限制。
+使用别人分享的网盘链接，创建快捷方式到自己的网盘，占用极少的内存空间，原理上可以使用很多的模型，跳出磁盘大小的限制。
 
-- 我的model模型和拓展（需要保存文件到对应文件夹，使用软链不占用云空间，但不能编辑）：
+- 我的model模型和拓展（需要保存文件到对应文件夹，比如`Lora`，可以是`Lora_1`、`Lora2`等`Lora`开头的，运行时都能进行同步）：
 
   - [google drive models/Stable-diffusion](https://drive.google.com/drive/folders/1wSpxGyqD3rGY6LDKfFXYYwxtd1_amjuS?usp=sharing)
 
