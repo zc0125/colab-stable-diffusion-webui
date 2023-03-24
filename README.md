@@ -7,7 +7,7 @@
 可将stable-diffusion-webui生成的图片保存到网盘的outputs目录下，用于同步生成图片
 
 
-### 准备Google Drive（如有需要）
+## 准备Google Drive（如有需要）
 
 - Google Drive [地址](https://drive.google.com/drive/my-drive)
 
@@ -22,7 +22,7 @@
 ![image](https://user-images.githubusercontent.com/51420323/226173991-42c13d16-584f-47a3-8129-b71efd9c6870.png)
 
 
-### 执行脚本
+## 执行脚本（具体操作可见脚本注释）
 
 使用当前脚本[v1/run_stable_diffusion](https://github.com/zc0125/colab-stable-diffusion-webui/blob/main/v1/run_stable_diffusion.ipynb)在google colab中执行
 
@@ -54,6 +54,8 @@
 6. 在线下载model资源同步保存到drive，更快，请使用脚本进行下载
 
 
+## 推荐插件
+
 ### 简体中文包
 
 简体中文插件脚本已经下载安装，当前使用的[简体中文包](https://github.com/VinsonLaro/stable-diffusion-webui-chinese)
@@ -68,7 +70,7 @@
 
 也可使用原作者项目自行进行翻译
 
-### 分享
+## 分享
 
 使用别人分享的网盘链接，创建快捷方式到自己的网盘，占用极少的内存空间，原理上可以使用很多的模型，跳出磁盘大小的限制。
 
