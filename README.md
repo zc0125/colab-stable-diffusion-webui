@@ -70,17 +70,23 @@
 
 也可使用原作者项目自行进行翻译
 
-## 分享
+## 科学上网
+
+如果你没有一个合适的vpn来访问谷歌，并且经常使用，可以自己购买合适的vps，参考一键搭建教程，这里推荐v2ray
+
+也可以购买现有的节点代理，这里推荐，[地址](https://www.paopao.dog/#/register?code=CExwfq3w)，如果可以，请填写我的邀请码`CExwfq3w`,这里有永久和其他多种套餐，很便宜，适合不大量使用和下载的用户
+
+## 分享模型
 
 使用别人分享的网盘链接，创建快捷方式到自己的网盘，占用极少的内存空间，原理上可以使用很多的模型，跳出磁盘大小的限制。
 
-- 我的model模型和拓展（需要保存文件到对应文件夹，比如`Lora`，可以是`Lora_1`、`Lora2`等`Lora`开头的，运行时都能进行同步）：
+- 我的model模型（需要保存文件到对应文件夹，比如`Lora`，可以是`Lora_1`、`Lora2`等`Lora`开头的，运行时都能进行同步）：
 
-  - [google drive models/Stable-diffusion](https://drive.google.com/drive/folders/1wSpxGyqD3rGY6LDKfFXYYwxtd1_amjuS?usp=sharing)
+如需更多模型请自行下载或联系我共享
 
-  - [google drive models/Lora](https://drive.google.com/drive/folders/1BTmTJesXW9j2ZtLgUMlvqMup8QIAVaFJ?usp=sharing)
+  - [google drive models/Stable-diffusion](https://drive.google.com/drive/folders/1kaYPZsdagb3JV5D5Ac1NB_3ZvEvWZghB?usp=sharing)
 
-  - [google drive extensions](https://drive.google.com/drive/folders/1Wrta7OGFNs-7Us7h4CIh-wCHYKu1bgqt?usp=sharing)
+  - [google drive models/Lora](https://drive.google.com/drive/folders/1gADy8nIzW8OUF4NB5klyoKg6H9LUq87s?usp=sharing)
 
 - ControlNet模型：
 ```
