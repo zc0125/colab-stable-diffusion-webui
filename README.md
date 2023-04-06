@@ -82,11 +82,13 @@
 
 - 我的model模型（需要保存文件到对应文件夹，比如`Lora`，可以是`Lora_1`、`Lora2`等`Lora`开头的，运行时都能进行同步）：
 
-如需更多模型请自行下载或联系我共享
+如需更多模型请自行下载或联系我共享（之前分享的模型链接一直有问题，本次更新链接）
 
   - [google drive models/Stable-diffusion](https://drive.google.com/drive/folders/1kaYPZsdagb3JV5D5Ac1NB_3ZvEvWZghB?usp=sharing)
 
   - [google drive models/Lora](https://drive.google.com/drive/folders/1gADy8nIzW8OUF4NB5klyoKg6H9LUq87s?usp=sharing)
+  
+  使用共享模型时尽量不要引入太多模型，在线链接过多的快捷方式会导致运行缓慢，如果确定要要使用的模型建议复制到自己的网盘中，并同步到运行时的磁盘，可以大大提高运行速度。
 
 - ControlNet模型：
 ```
