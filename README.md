@@ -22,9 +22,9 @@
 ![image](https://user-images.githubusercontent.com/51420323/226173991-42c13d16-584f-47a3-8129-b71efd9c6870.png)
 
 
-## 执行脚本（具体操作可见脚本注释）
+## 快速开始（具体操作可见脚本注释）
 
-使用当前脚本[v1/run_stable_diffusion](https://github.com/zc0125/colab-stable-diffusion-webui/blob/main/v1/run_stable_diffusion.ipynb)在google colab中执行
+使用当前脚本[v1/run_stable_diffusion_ipynb.ipynb](https://github.com/zc0125/colab-stable-diffusion-webui/blob/main/v1/run_stable_diffusion_ipynb.ipynb)在google colab中执行
 
 ![image](https://user-images.githubusercontent.com/51420323/226174230-5a401105-e878-4e30-97a0-f34b2aebabad.png)
 
